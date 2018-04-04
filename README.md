@@ -11,6 +11,7 @@
 ##### To compile and deploy contracts to the blockchain:
 * `$ truffle compile`
 * `$ truffle migrate`
+* Contract deployments may require arguments
 
 ##### Truffle commands
 * See availble commands: <http://truffleframework.com/docs/getting_started/console>
