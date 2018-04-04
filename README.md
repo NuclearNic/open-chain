@@ -1,5 +1,12 @@
 
 
+README
+======
+## Purpose and Scope
+* General purpose repo for documenting and learning ethereum smart contracts
+* The goal is to have a variety of example contracts here for reference and to document the usage of handy tools
+* Will serve as a base reference point for a potential future Make Day course
+
 ##### Tools
 * truffle cli for scaffolding, compilation, deployment...
 * ganache cli for running in-memory blockchain from the terminal
